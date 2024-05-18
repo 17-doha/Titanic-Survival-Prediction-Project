@@ -53,25 +53,19 @@ This project aims to predict the survival of passengers aboard the Titanic using
 
 ## Machine Learning Models
 
-### Gaussian Naive Bayes
-- Accuracy: 0.7289
+### Model Evaluation
 
-### Multinomial Naive Bayes
-- Accuracy: 0.7651
+- **Support Vector Machines (SVM):** Achieved an accuracy of 84.34%.
+- **K-Nearest Neighbors (KNN):** Achieved an accuracy of 81.93%.
+- **Categorical Naive Bayes:** Achieved the highest accuracy of 80.12%.
+- **Decision Tree:** Achieved an accuracy of 80.12%.
+- **Neural Networks:** Achieved an accuracy of 79.51%.
+- **Random Forest:** Achieved an accuracy of 78.92%.
+- **Multinomial Naive Bayes:** Achieved an accuracy of 76.51%.
+- **Gaussian Naive Bayes:** Achieved an accuracy of 72.89%.
 
-### Categorical Naive Bayes
-- Accuracy: 0.8012
+Each model was evaluated using accuracy, precision, recall, and F1-score metrics, as well as cross-validation to assess generalization performance.
 
-### Logistic Regression
-- Accuracy: 0.8133
-- Cross-Validation Accuracy: 0.7981
-
-### K-Nearest Neighbors
-- Accuracy: 0.8193
-- Cross-Validation Accuracy: 0.8102
-
-### Support Vector Machine
-- Accuracy: 0.8434
 
 ---
 
