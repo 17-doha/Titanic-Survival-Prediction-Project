@@ -83,8 +83,8 @@ Categorical Naive Bayes and Support Vector Machine models performed the best, ac
 
 ## Author
 
-[Your Name]
+Doha Hemdan Ismail
 
 ## Date
 
-[Date]
+19/5/2024
